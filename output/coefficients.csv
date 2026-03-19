@@ -1,0 +1,57 @@
+Feature,Coefficient,Variable
+cat__Day_Name_Monday,270.0744779648249,Day_Name_Monday
+cat__Day_Name_Saturday,-5736.568534461241,Day_Name_Saturday
+cat__Day_Name_Sunday,-11790.430100527847,Day_Name_Sunday
+cat__Day_Name_Thursday,-9593.950380890627,Day_Name_Thursday
+cat__Day_Name_Tuesday,-970.4651638579044,Day_Name_Tuesday
+cat__Day_Name_Wednesday,-12845.018232500279,Day_Name_Wednesday
+cat__Brand_OnePlus,-865.5464483284368,Brand_OnePlus
+cat__Brand_Samsung,-2068.2513079853625,Brand_Samsung
+cat__Brand_Vivo,-4517.792896872627,Brand_Vivo
+cat__Brand_Xiaomi,-7311.158998915584,Brand_Xiaomi
+cat__Customer_Age_Group_20-24,4486.897146387193,Customer_Age_Group_20-24
+cat__Customer_Age_Group_25-29,1992.9005574363619,Customer_Age_Group_25-29
+cat__Customer_Age_Group_30-34,-6307.14854542861,Customer_Age_Group_30-34
+cat__Customer_Age_Group_35-39,-3504.9524118468034,Customer_Age_Group_35-39
+cat__Customer_Age_Group_40-44,4356.198926750422,Customer_Age_Group_40-44
+cat__Customer_Age_Group_45-49,3049.236264035763,Customer_Age_Group_45-49
+cat__Customer_Age_Group_50-54,9754.018664872694,Customer_Age_Group_50-54
+cat__Customer_Age_Group_55-59,6527.616294003026,Customer_Age_Group_55-59
+cat__City_Bhopal,9077.546355526007,City_Bhopal
+cat__City_Chennai,52903.90783929579,City_Chennai
+cat__City_Coimbatore,15157.056059288792,City_Coimbatore
+cat__City_Delhi,8418.9103884393,City_Delhi
+cat__City_Gorakhpur,-10755.212447282644,City_Gorakhpur
+cat__City_Hyderabad,-19546.53934711084,City_Hyderabad
+cat__City_Indore,551.1915245815126,City_Indore
+cat__City_Jodhpur,25279.3741676107,City_Jodhpur
+cat__City_Kanpur,-22248.072532040926,City_Kanpur
+cat__City_Kolkata,-20314.705183478654,City_Kolkata
+cat__City_Lucknow,1958.2541774302808,City_Lucknow
+cat__City_Ludhiana,5505.782237741167,City_Ludhiana
+cat__City_Madurai,24593.45116682239,City_Madurai
+cat__City_Mumbai,1046.0208918518401,City_Mumbai
+cat__City_Patna,9228.091338121798,City_Patna
+cat__City_Rajkot,27850.477895237334,City_Rajkot
+cat__City_Ranchi,1698.7083191221245,City_Ranchi
+cat__City_Vadodara,-6118.708187133139,City_Vadodara
+cat__Payment Method_Credit Card,-1623.8928629152188,Payment Method_Credit Card
+cat__Payment Method_Debit Card,7257.010949572128,Payment Method_Debit Card
+cat__Payment Method_UPI,1004.673079827191,Payment Method_UPI
+cat__Mobile Model_Galaxy Note 20,1676.337751367868,Mobile Model_Galaxy Note 20
+cat__Mobile Model_Galaxy S21,919.8985358044083,Mobile Model_Galaxy S21
+cat__Mobile Model_Mi 11,-3672.563010067513,Mobile Model_Mi 11
+cat__Mobile Model_OnePlus 8T,-3376.0380712662045,Mobile Model_OnePlus 8T
+cat__Mobile Model_OnePlus 9,-12710.896806627909,Mobile Model_OnePlus 9
+cat__Mobile Model_OnePlus Nord,15221.388429565712,Mobile Model_OnePlus Nord
+cat__Mobile Model_Redmi 9,-420.084520811386,Mobile Model_Redmi 9
+cat__Mobile Model_Redmi Note 10,-3218.5114680367005,Mobile Model_Redmi Note 10
+cat__Mobile Model_Vivo S1,-7458.747895804427,Mobile Model_Vivo S1
+cat__Mobile Model_Vivo V20,4909.003614507603,Mobile Model_Vivo V20
+cat__Mobile Model_Vivo Y51,-1968.0486155758153,Mobile Model_Vivo Y51
+cat__Mobile Model_iPhone 11,-10760.940823066569,Mobile Model_iPhone 11
+cat__Mobile Model_iPhone 12,16916.786774958768,Mobile Model_iPhone 12
+cat__Mobile Model_iPhone SE,8606.903700209818,Mobile Model_iPhone SE
+remainder__Day,-421.54136326951993,Day
+remainder__Month,-1703.046423601405,Month
+remainder__Year,-2341.8926773582098,Year
