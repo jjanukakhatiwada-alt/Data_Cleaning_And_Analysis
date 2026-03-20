@@ -74,8 +74,5 @@ print(coef_df.sort_values(by='Coefficient', ascending=False))
 # Save regression results
 coef_df.to_csv("output/coefficients.csv", index=False)
 
-# Save correlation results
-correlations.to_csv("output/correlations.csv")
 
-# Save aggregated tables
-daily_sales.to_csv("output/daily_sales.csv", index=False)
+
